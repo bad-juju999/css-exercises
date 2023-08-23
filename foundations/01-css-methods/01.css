@@ -1,0 +1,17 @@
+.red,
+p {
+    color: white;
+}
+.red {
+    background-color: red;
+    text-align: center;
+}
+
+p {
+    background-color: green;
+}
+
+button {
+    background-color: yellow;
+    color: black;
+}
